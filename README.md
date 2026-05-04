@@ -1,1 +1,2 @@
 # Portfolio
+Passionate and dedicated software developer with hands-on experience in modern web and mobile technologies. Skilled in HTML, CSS, JavaScript, React.js, PHP, Laravel, and Flutter, with a strong focus on building responsive, user-friendly applications. Experienced in developing e-commerce platforms, interactive web apps, and mobile solutions using Firebase and modern frameworks. Always eager to learn new technologies and improve problem-solving skills while delivering efficient and scalable solutions.
